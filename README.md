@@ -54,6 +54,7 @@ A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) 
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [A (more) Modern CSS Reset by Andy Bell](https://piccalil.li/blog/a-more-modern-css-reset/)
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
