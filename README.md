@@ -5,7 +5,7 @@
 
 Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
 
-## Vista previa
+## Vista Previa
 
 ### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
 
@@ -47,7 +47,7 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 
 Este proyecto tiene como objetivo principal el aprendizaje y la práctica del desarrollo web.
 
-## Recursos utilizados
+## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
 - [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
