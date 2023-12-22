@@ -1,5 +1,5 @@
 # Calculadora con Tres Temas
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green) <br/>
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
 
 [![Imagen de la calculadora con el primer tema](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)](https://criscorreas.github.io/three-themed-calculator/)
 
@@ -17,6 +17,29 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 
 #### Tercer Tema:
 ![Vista previa del tercer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista3.png)
+
+## Responsive
+
+#### Vista desde un ordenador
+![Calculadora vista desde un Ordenador](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
+
+#### Vista desde un teléfono
+- Pixel 7 <br><br>
+![Calculadora vista desde un Google Pixel 7](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1-pixel7.png)
+
+<br>
+
+- iPhone SE <br><br>
+![Calculadora vista desde un iPhone SE](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1-iphoneSE.png)
+
+#### Vista desde una tablet
+- Nest Hub Max <br><br>
+![Calculadora vista desde un Nest Hub Max](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1-nestHubMax.png)
+
+<br>
+
+- iPad Mini <br><br>
+![Calculadora vista desde un iPad Mini](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1-ipadMini.png)
 
 ## Características
 
