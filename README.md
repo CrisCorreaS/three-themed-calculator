@@ -73,16 +73,22 @@ Este proyecto tiene como objetivo principal el aprendizaje y la práctica del de
 ## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
-- [MDN Custom data Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
-- [MDN Using data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
 - [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
-- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) 
-- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-- [A (more) Modern CSS Reset by Andy Bell](https://piccalil.li/blog/a-more-modern-css-reset/)
-- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
-- [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- HTML:
+  - [MDN Custom data Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
+  - [MDN Using data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+- CSS:
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+  - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+  - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+  - [A (more) Modern CSS Reset by Andy Bell](https://piccalil.li/blog/a-more-modern-css-reset/)
+  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+- JavaScript:
+  - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+  - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Google Fonts:
+  -  [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
+  - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 
 
 ## Licencia
