@@ -83,3 +83,7 @@ A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+## Licencia
+Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
