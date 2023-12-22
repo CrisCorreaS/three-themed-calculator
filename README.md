@@ -10,20 +10,20 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 ### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
 
 #### Primer Tema:
-![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
+![Vista previa del primer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
 
 #### Segundo Tema:
-![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista2.png)
+![Vista previa del segundo tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista2.png)
 
 #### Tercer Tema:
-![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista3.png)
+![Vista previa del tercer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista3.png)
 
 ## Características
 
 - **Interfaz:** Diseño sencillo y colorido adaptado a varios colores diferentes:
-  - **Primer tema**: Azul, blanco y amarillo
-  - **Segundo tema**: Verde, blanco y naranja
-  - **Tercero tema**: Gris, rojo y violeta
+  - **Primer tema**: Verde, blanco y naranja
+  - **Segundo tema**: Gris, rojo y violeta
+  - **Tercero tema**: Azul, blanco y amarillo
 - **Funciones Matemáticas Básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
 
 ## Tecnologías Utilizadas
@@ -50,10 +50,13 @@ Este proyecto tiene como objetivo principal el aprendizaje y la práctica del de
 ## Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
+- [MDN Custom data Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
+- [MDN Using data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
 - [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) 
 - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [A (more) Modern CSS Reset by Andy Bell](https://piccalil.li/blog/a-more-modern-css-reset/)
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
