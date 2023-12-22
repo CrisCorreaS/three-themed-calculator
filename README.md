@@ -7,7 +7,7 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 
 ## Vista Previa
 
-### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
+### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/three-themed-calculator/)**
 
 #### Primer Tema:
 ![Vista previa del primer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
