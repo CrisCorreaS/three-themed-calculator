@@ -10,20 +10,20 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 ### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/barbie-calculator/)**
 
 #### Primer Tema:
-![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
+![Vista previa del primer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
 
 #### Segundo Tema:
-![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista2.png)
+![Vista previa del segundo tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista2.png)
 
 #### Tercer Tema:
-![Vista previa de la calculadora de Barbie](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista3.png)
+![Vista previa del tercer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista3.png)
 
 ## Características
 
 - **Interfaz:** Diseño sencillo y colorido adaptado a varios colores diferentes:
-  - **Primer tema**: Azul, blanco y amarillo
-  - **Segundo tema**: Verde, blanco y naranja
-  - **Tercero tema**: Gris, rojo y violeta
+  - **Primer tema**: Verde, blanco y naranja
+  - **Segundo tema**: Gris, rojo y violeta
+  - **Tercero tema**: Azul, blanco y amarillo
 - **Funciones Matemáticas Básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
 
 ## Tecnologías Utilizadas
