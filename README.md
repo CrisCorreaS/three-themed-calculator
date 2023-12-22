@@ -64,7 +64,7 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas mejorar la calculadora de Barbie existente, como agregar más contenido o mejorar el diseño, no dudes en enviar tus pull requests. También puedes sugerir nuevas funcionalidades o brindar retroalimentación para hacer que este proyecto sea aún mejor.
+¡Las contribuciones son bienvenidas! Si deseas mejorar la calculadora existente, como agregar más contenido o mejorar el diseño, no dudes en enviar tus pull requests. También puedes sugerir nuevas funcionalidades o brindar retroalimentación para hacer que este proyecto sea aún mejor.
 
 ## Propósito del Proyecto
 
