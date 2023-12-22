@@ -1,0 +1,75 @@
+:root {
+  --text-color: #041d56;
+  --background-theme: #4a71a8;
+  --background-keypad: #0b1956;
+  --background-screen: #0f2473;
+  --background-reset-key: #8ed7ff;
+  --shadow-reset-key: #60afff;
+  --background-keys: #fffdf1;
+  --shadow-keys: #b4b4b4;
+  --background-result-key: #f1bd00;
+  --shadow-result-key: #b99400;
+  --background-footer: #0b1956;
+  --text-footer: #6f96d1;
+  --anchor-footer: #8ed7ff;
+}
+
+body {
+  background-color: var(--background-theme);
+}
+
+label,
+h6 {
+  color: var(--background-keys);
+}
+
+.header > h1 {
+  color: var(--text-color);
+}
+
+.input {
+  background-color: var(--background-keypad);
+}
+
+input:checked {
+  background-color: var(--background-result-key);
+}
+
+.user-input {
+  background-color: var(--background-screen);
+  color: var(--background-reset-key);
+}
+
+.grid-container {
+  background-color: var(--background-keypad);
+}
+
+.grid-container > button {
+  background-color: var(--background-keys);
+  color: var(--text-color);
+  box-shadow: 0 5px var(--shadow-keys);
+}
+
+button:nth-child(17),
+button:nth-child(4) {
+  background-color: var(--background-reset-key);
+  box-shadow: 0 5px var(--shadow-reset-key);
+  color: var(--background-keys);
+}
+
+button:nth-child(18) {
+  background-color: var(--background-result-key);
+  box-shadow: 0 5px var(--shadow-result-key);
+  color: white;
+}
+
+footer {
+  background-color: var(--background-footer);
+  color: var(--text-footer);
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.2);
+  border-top: 1px solid var(--background-result-key);
+}
+
+small > a {
+  color: var(--anchor-footer);
+}

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Three Themed Calculator</title>
+    <!-- Links CSS and JS -->
+    <link rel="stylesheet" href="css/theme1.css" />
+    <link rel="stylesheet" type="text/css" href="">
+    <script src="script.js" defer></script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Oswald:wght@700&display=swap"
+      rel="stylesheet">
+
+    <!-- Flavicon -->
+    <link
+      rel="shortcut icon"
+      type="image/jpg"
+      href="img/logo-flavicon-calculator.png"
+    />
+
+    <!-- Meta -->
+    <meta
+      name="keywords"
+      content="html,css,js,javascript,responsive,calculator,theme-color"
+    />
+    <meta
+      name="description"
+      content="Calculadora responsive de tres temas con diferentes colores, desarrollada con HTML, CSS y JavaScript"
+    />
+    <meta name="author" content="Cristina Correa" />
+    <meta name="generator" content="VSCode" />
+    <meta name="theme-color" content="#fff" />
+
+    <meta name="google" content="nositelinkssearchbox" />
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="index, nofollow" />
+
+    <meta property="og:title" content="Three Themed Calculator" />
+    <meta
+      property="og:description"
+      content="Calculadora responsive de tres temas con diferentes colores, desarrollada con HTML, CSS y JavaScript"
+    />
+  </head>
+  <body>
+    <main class="calculator">
+      <header class="header">
+        <h1>calc</h1>
+        <h6>THEME</h6>
+        <section class="div">
+          <div class="input">
+            <input id="theme1" type="radio" name="theme" value="1" checked />
+            <label for="theme1">1</label>
+
+            <input id="theme2" type="radio" value="2" name="theme" />
+            <label for="theme2">2</label>
+
+            <input id="theme3" type="radio" value="3" name="theme" />
+            <label for="theme3">3</label>
+          </div>
+        </section>
+      </header>
+      <section class="user-input">
+        <!-- A lo largo de todo este html usamos custom data attributes  -->
+        <div data-previous-operand class="previous-operand"></div>
+        <div data-current-operand class="current-operand"></div>
+      </section>
+      <section class="grid-container">
+        <!-- Estos botones tienen el atributo personalizado "data-num" entre otros custom data attributes  -->
+        <button data-num>7</button>
+        <button data-num>8</button>
+        <button data-num>9</button>
+        <button data-delete>DEL</button>
+        <button data-num>4</button>
+        <button data-num>5</button>
+        <button data-num>6</button>
+        <button data-operator>+</button>
+        <button data-num>1</button>
+        <button data-num>2</button>
+        <button data-num>3</button>
+        <button data-operator>-</button>
+        <button data-num>.</button>
+        <button data-num>0</button>
+        <button data-operator>/</button>
+        <button data-operator>×</button>
+        <button data-reset class="column-span">RESET</button>
+        <button data-output class="column-span">=</button>
+      </section>
+    </main>
+    <footer class="attribution">
+      <small>
+        Icono de Flavicon diseñado por
+        <a
+          href="https://www.flaticon.es/iconos-gratis/calcular"
+          title="calcular iconos"
+        >
+          Pixel perfect
+        </a>
+        de
+        <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
+      </small>
+    </footer>
+  </body>
+</html>
