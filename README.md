@@ -1,24 +1,28 @@
-# Calculadora con Tres Temas
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
-
+# ➗ Calculadora con Tres Temas
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/><br/>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br/><br/>
 [![Imagen de la calculadora con el primer tema](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)](https://criscorreas.github.io/three-themed-calculator/)
 
 Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
 
-## Vista Previa
+## 👀 Vista Previa
 
-### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/three-themed-calculator/)**
+### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/three-themed-calculator/)**
 
-#### Primer Tema:
+#### 1️⃣ Primer Tema:
 ![Vista previa del primer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
 
-#### Segundo Tema:
+#### 2️⃣ Segundo Tema:
 ![Vista previa del segundo tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista2.png)
 
-#### Tercer Tema:
+#### 3️⃣ Tercer Tema:
 ![Vista previa del tercer tema de la calculadora](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista3.png)
 
-## Responsive
+## 💻📱 Responsive
 
 #### Vista desde un ordenador
 ![Calculadora vista desde un Ordenador](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1.png)
@@ -41,7 +45,7 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 - iPad Mini <br><br>
 ![Calculadora vista desde un iPad Mini](https://github.com/CrisCorreaS/three-themed-calculator/blob/main/img/visualizaci%C3%B3n/calculadora-vista1-ipadMini.png)
 
-## Características
+## 🌱 Características
 
 - **Interfaz:** Diseño sencillo y colorido adaptado a varios colores diferentes:
   - **Primer tema**: Verde, blanco y naranja
@@ -49,28 +53,28 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
   - **Tercero tema**: Azul, blanco y amarillo
 - **Funciones Matemáticas Básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-## Cómo Usar
+## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 
 ¡Y eso es todo! Ahora puedes realizar tus cálculos con una calculadora 3x1.
 
-## Contribuciones
+## ✨ Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar la calculadora existente, como agregar más contenido o mejorar el diseño, no dudes en enviar tus pull requests. También puedes sugerir nuevas funcionalidades o brindar retroalimentación para hacer que este proyecto sea aún mejor.
 
-## Propósito del Proyecto
+## 🎯 Propósito del Proyecto
 
 Este proyecto tiene como objetivo principal el aprendizaje y la práctica del desarrollo web.
 
-## Recursos Utilizados
+## 👌 Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
 - [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
@@ -91,5 +95,5 @@ A la hora de hacer este proyecto he utilizado los siguientes recursos:
   - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 
 
-## Licencia
+## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
