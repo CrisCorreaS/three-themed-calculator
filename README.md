@@ -51,7 +51,8 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
   - **Primer tema**: Verde, blanco y naranja
   - **Segundo tema**: Gris, rojo y violeta
   - **Tercero tema**: Azul, blanco y amarillo
-- **Funciones Matemáticas Básicas:** Suma, resta, multiplicación y división para resolver cualquier problema.
+- **Funciones Matemáticas Básicas:** Resuelve cualquier problema con suma, resta, multiplicación y división.
+- **Correcciones** Si olvidaste alguna operación o cometiste un error al ingresar un número, puedes borrar todo o eliminar caracteres uno por uno.
 
 ## 🛠️ Tecnologías Utilizadas
 
