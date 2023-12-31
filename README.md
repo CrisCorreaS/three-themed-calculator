@@ -60,6 +60,33 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 - CSS
 - JavaScript
 
+## 🔎💡 Información
+> [!IMPORTANT]
+> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript.
+> - Está desarrollado utilizando JavaScript Vanilla, así que no se utiliza ningún framework. Sin embargo, si estás buscando un poco más de desafío, ¡siéntete libre de explorar la posibilidad de integrar un framework!
+> - **Nivel de dificultad del proyecto:** 🔴🔴⭕⭕⭕⭕⭕⭕⭕⭕ (2 sobre 10)
+
+> [!TIP]
+> A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
+> - [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
+> - [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
+> - HTML:
+>    - [MDN Custom data Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
+>    - [MDN Using data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+> - CSS:
+>    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+>    - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+>    - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+>    - [A (more) Modern CSS Reset by Andy Bell](https://piccalil.li/blog/a-more-modern-css-reset/)
+>    - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+> - JavaScript:
+>    - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+>    - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+> - Google Fonts:
+>    -  [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
+>    - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+
+
 ## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
@@ -74,26 +101,6 @@ Esta calculadora, inspirada en el ["Calculator App Challenge" de Frontend Mentor
 ## 🎯 Propósito del Proyecto
 
 Este proyecto tiene como objetivo principal el aprendizaje y la práctica del desarrollo web.
-
-## 👌 Recursos Utilizados
-A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- [Frontend Mentor: Calculator App Challenge](https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29)
-- [Online Tutorials: Day/Night Mode Switch Toggle](https://www.youtube.com/watch?v=hy27lzmButc)
-- HTML:
-  - [MDN Custom data Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*)
-  - [MDN Using data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
-- CSS:
-  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
-  - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) 
-  - [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-  - [A (more) Modern CSS Reset by Andy Bell](https://piccalil.li/blog/a-more-modern-css-reset/)
-  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- JavaScript:
-  - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
-  - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- Google Fonts:
-  -  [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
-  - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 
 
 ## ➡️ Licencia
